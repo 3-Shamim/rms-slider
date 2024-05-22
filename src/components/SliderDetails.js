@@ -1,6 +1,6 @@
 const SliderDetails = () => {
     return (
-        <div>
+        <div className="slider-details">
             <div className="solutions">
                 <p>Solutions</p>
                 <p>We have solutions for all aspects of your business</p>
